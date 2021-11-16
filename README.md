@@ -1,4 +1,4 @@
-# On a Sticky Wicket: Exploratory Data Analysis on Indian Premier League (Seasons 2008-2016)
+# The Beautiful Game. Investigating European Football Database
 
 ## Abstract:
 This football dataset is obtained from Kaggle. The data contains more than 25,000 matches, +10,000 players, 11 European countries, team squad formation with (X, Y) coordinates, detailed match events; for example, goal types, possessions, fouls, cards and many more. The dataset spans from 2008 to 2016 seasons and it comes in SQLite database format with 7 tables (Country, League, Match, Player, Player_Attributes, Team, and Team_Attributes). In addition, there are 199 columns combined in this database. We will extract what serves our purpose of analysis and try answer some questions; for instance, what team improved over the period of time? which teams had scored the most number of goals? what attributes that leads the team to most victories? and also dig in to explore players distinctions that dominates the game.
