@@ -6,12 +6,11 @@ This football dataset is obtained from Kaggle. The data contains more than 25,00
 All thanks to [Hugo Mathien](https://www.kaggle.com/hugomathien) for dedicating the time and effort to make this possbile. Further reading and ways to improve the project can be found in Hugo's github repo [here](https://github.com/hugomathien/football-data-collection).
 
 ## Research Questions:
-Our base research questions are limited to four. Since Exploratory Data Analysis (EDA) is a continuous cycle, redefining our base is inevitable and thus adding more questions is certain. Our scope in framing questions is to hopefully help sports analysts to extract useful information, technical team managers to fully utilize their best potentials, and the novice to better understand the game. Questions goes as follows:
+Our base research questions are limited to three. Since Exploratory Data Analysis (EDA) is a continuous cycle, redefining our base is inevitable and thus adding more questions is certain. Our scope in framing questions is to hopefully help sports analysts to extract useful information, technical team managers to fully utilize their best potentials, and the novice to better understand the game. Questions goes as follows:
 
-- What are the team attributes most correlated to scoring the max number of goals?
-- Which team had scored the most goals?
+- Which team had scored the most goals from 2008 to 2016?
+- What team improved the most over the time period?
 - Which player had the most penalties?
-- What attributes that lead teams to most victories?
     
 
 ## Data Description:
