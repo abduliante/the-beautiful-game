@@ -45,5 +45,6 @@ The analysis is going to be developed on an IPython notebook. The tools to be us
 - Pandas
 - Numpy
 - Matplotlib
+- Seaborn
 - Pandas Profiling -- generates detailed report with an overview of the dataset, variable properties, interactions, correlations and missing values
 
