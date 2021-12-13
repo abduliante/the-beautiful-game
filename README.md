@@ -5,7 +5,7 @@ This football dataset is obtained from Kaggle. The data contains more than 25,00
 
 All thanks to [Hugo Mathien](https://www.kaggle.com/hugomathien) for dedicating the time and effort to make this possbile. Further reading and ways to improve the project can be found in Hugo's github repo [here](https://github.com/hugomathien/football-data-collection).
 
-Credit goes to **Mr. Abdulelah Alnajem** from Ministry of Sport for pointing out the anomaly in this question. It turns out the "Penalties" column reference to the attribute of players fetched from FIFA game API; therefore, no sufficient information we can pull to answer this question. As a result, changing the question is necessary.
+Credit goes to **Mr. Abdulelah Alnajem** from Ministry of Sport for pointing out the anomaly in third question. It turns out the "Penalties" column reference to the attribute of players fetched from FIFA game API; therefore, no sufficient information we can pull to answer this question. As a result, changing the question is necessary.
 
 ## Research Questions:
 Our base research questions are limited to three. Since Exploratory Data Analysis (EDA) is a continuous cycle, redefining our base is inevitable and thus adding more questions is certain. Our scope in framing questions is to hopefully help sports analysts to extract useful information, technical team managers to fully utilize their best potentials, and the novice to better understand the game. Questions goes as follows:
